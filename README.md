@@ -75,6 +75,19 @@ Large-scale Kubernetes clusters require constant monitoring and quick recovery f
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed .
 
----
+
+<img width="1915" height="887" alt="image" src="https://github.com/user-attachments/assets/04775324-50ee-4534-a9e9-0cbf0c5b4037" />
+<img width="1587" height="785" alt="image" src="https://github.com/user-attachments/assets/1b5a4660-c71d-40b2-972d-8bfd7dde7ad0" />
+<img width="1886" height="482" alt="image" src="https://github.com/user-attachments/assets/7134921b-5621-40a3-94e0-b78b6986e6c0" />
+--<img width="1562" height="838" alt="image" src="https://github.com/user-attachments/assets/fe7bf169-af83-4f42-8d4d-d481965ce3f6" />
+<img width="1902" height="877" alt="image" src="https://github.com/user-attachments/assets/a01352d5-a5e7-478d-89ad-1913b4909414" />
+<img width="1908" height="900" alt="image" src="https://github.com/user-attachments/assets/1f31494e-c840-4e1a-9951-098da2b7a305" />
+<img width="1912" height="922" alt="image" src="https://github.com/user-attachments/assets/d7634d6a-d56d-4ecb-ba48-24c69a47c083" />
+<img width="1912" height="877" alt="image" src="https://github.com/user-attachments/assets/2a6ab88b-af52-4e23-9dd5-254cf8461161" />
+
+
+
+
+-
